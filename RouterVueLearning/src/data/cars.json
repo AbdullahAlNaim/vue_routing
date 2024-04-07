@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Chevy",
+    "price": 15000,
+    "year": 2015,
+    "contact": {
+      "dealer": "bob",
+      "number": "111-111-1111"
+    }
+  },
+  {
+    "id": 2,
+    "name": "ford",
+    "price": 20000,
+    "year": 2019,
+    "contact": {
+      "dealer": "sarah",
+      "number": "222-222-2222"
+    }
+  },
+  {
+    "id": 3,
+    "name": "land rover",
+    "price": 15000,
+    "year": 2018,
+    "contact": {
+      "dealer": "Vince",
+      "number": "333-333-3333"
+    }
+  },
+  {
+    "id": 4,
+    "name": "farrari",
+    "price": 205000,
+    "year": 2021,
+    "contact": {
+      "dealer": "Mike",
+      "number": "444-444-4444"
+    }
+  }
+]
